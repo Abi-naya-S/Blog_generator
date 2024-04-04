@@ -25,10 +25,6 @@ This project demonstrates the usage of Generative AI to generate blog content ba
 
 4. View the generated blog content in the console output.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Google Generative AI API
